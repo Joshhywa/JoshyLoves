@@ -1,0 +1,146 @@
+<html>
+
+<head>
+<title> Joshy Loves Fashion </title>
+</head>
+
+<style>
+body {
+background-image: url('BG1.jpg'); bakcground-reapeat: no-repeat; background-attachment: fixed; background-size: cover;
+</style>
+
+
+<body>
+<p>
+<center>
+<a href="JoshyLovesHomePage.html">
+<img src="LOGO.png" width="400" height="60"/> 
+</a>
+</center>
+</p>
+
+<p>
+<a href="JoshyLovesHomePage.html">
+<img src="HOMEBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesMusic.html">
+<img src="MUSICBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesFilms.html">
+<img src="FILMSBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesTVShows.html">
+<img src="TVSHOWSBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesToRead.html">
+<img src="TOREADBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesFashion.html">
+<img src="DESIGNERSBUTTON.png" width="210" height="50"/>
+</a>
+</p>
+
+
+<hr width=1300 height=1000 color="#B65FCF">
+<p><h1><b><center><font size="6" color="#E11584" face="Arial">JOSHY LOVES FASHION</center></b></h1></font>
+<hr width=1300 height=1000 color="#B65FCF">
+
+<h1><p align="justify"><font size="5" color="black" face="Arial" align="left"><b><u><a href="https://www.mugler.com/"><center>1. THIERRY MUGLER</center></a></u></b></font></p></h1><br>
+
+
+<center><img src="FASHION1.png" width="900" height="500"/></center>
+<p align="justify">
+<font size="3" color="1D2951" face="Arial"><b>Manfred Thierry Mugler (French pronunciation: [manfʁɛd tjɛʁi myɡlɛʁ]; 21 December 1948 – 23 January 2022) was a French fashion designer, creative director and creative adviser of Mugler. In the 1970s, Mugler launched his eponymous fashion house; and quickly rose to prominence in the following decades for his avant-garde, architectural, hyperfeminine and theatrical approach to haute couture. He was one of the first designers to champion diversity in his runway shows, which often tackled racism and ageism, and incorporated non-traditional models such as drag queens, pornstars, and transgender women. In 2002, he retired from the brand, and returned in 2013 as the creative adviser.<br>
+<p align="justify">
+At the beginning of his career he designed signature looks for Michael Jackson, Madonna, Grace Jones, Duran Duran, Viktor Lazlo, David Bowie and Diana Ross; most notably Demi Moore's dress from the 1993 movie Indecent Proposal, which was once coined "the most famous dress of the 1990s". In 1992, he directed and designed the outfits for George Michael's "Too Funky" music video; also that year he launched the perfume Angel, which became one of the best-selling perfumes of the 20th century. Mugler's fall 1995 haute couture collection, marking the 20th anniversary of his brand, was staged at the Cirque d'hiver venue in Paris; and has been referred to as the "Woodstock of Fashion", for having over 300 designed looks, an elaborate set design, dozens of high-profile supermodels and a performance from James Brown. He also designed costumes for Beyoncé's I Am... World Tour, and created a one-off design for Kim Kardashian to wear to the 2019 Met Gala.<br>
+
+<p align="center">
+<u>FAVORITE SHOW:</u><br>
+<p align="center">
+READY TO WEAR FALL/WINTER 1991<br>
+</b></font></p>
+
+
+<hr width=1300 height=1000 color="#B65FCF">
+
+<h1><p align="justify"><font size="5" color="black" face="Arial" align="left"><b><u><a href="https://www.bobmackie.com/aboutbob/"><center>2. BOB MACKIE</center></a></u></b></font></p></h1><br>
+
+
+<center><img src="FASHION2.png" width="900" height="500"/></center>
+<p align="justify">
+<font size="3" color="1D2951" face="Arial"><b>Bob Mackie is an internationally renowned costume and fashion designer who has dressed some of the most glamorous entertainment icons in the world. With a career spanning five decades, nine Emmy Award wins, three Academy Award nominations, and an induction into the Television Academy Hall of Fame, Bob Mackie's career is nothing short of legendary. Most recently, he received a 2019 Tony Award, Drama Desk Award, and Outer Critics Circle Award for his work on The Cher Show.A native of Southern California, Bob's career began in 1961, where he was in demand as a sketch artist for many costume designers in film, including Edith Head and Jean Louis. In 1966, the vivacious Mitzi Gaynor decided she was ready for a whole new look and quickly engaged Mackie to design the costumes for her famous Las Vegas Review and her upcoming television specials. For Mackie, this was a marriage made in heaven with dance, glamour, and comedy all in one package.After seeing Gaynor's Las Vegas show, Carol Burnett and TV producer, Joe Hamilton hired him to design the entire wardrobe for the first Carol Burnett Show, where he remained the show's costume designer for it's eleven year run on air. Bob is equally well known for his designs worn by Cher on her television show, as well as her concert tours, winning an Emmy in 1999 for Cher: Live in Concert from Las Vegas and in 2003 for Cher: The Farewell Tour.<br>
+<p align="justify">
+His theatrical credits include Lorelei with Carol Channing, On the Town with Bernadette Peters, Platinum with Alexis Smith, The Best Little Whorehouse Goes Public with Dee Hooty, Moon Over Buffalo and Putting It Together, both with Carol Burnett; and Minnelli On Minnelli with Liza Minnelli. He also designed the costumes and scenery for the world premiere of the ballet, Blue Suede Shoes, featuring the music of Elvis Presley, as well as the costumes for the San Francisco Opera's production of Alban Berg's Lulu. In 1982, the Bob Mackie ready-to-wear collection and Bob Mackie Barbie collectable dolls debuted, ushering a groundbreaking time for the Mackie brand. The Bob Mackie Barbie does continue to be sought after by collectors and consumers alike. The 1990s saw the launch of the widely popular QVC Wearable Art Collection and home furnishing collections. In 1999, the Museum at The Fashion Institute of Technology ("FIT") honored Mackie's enormous contribution to fashion and costume design with the retrospective Unmistakably Mackie, now hailed as one of the most highly attended exhibitions in New York City history. The exhibit included more than 125 examples of Mackie's designs, sketches, photos, and videos spanning his incredible career. In conjunction with the retrospective, the vibrantly illustrated book, Unmistakably Mackie by Frank DeCaro, was also released.<br>
+<p align="justify">
+Mr. Mackie's unprecedented career achievements continue to be recognized. Bob was awarded the TDF Irene Sharaff Lifetime Achievement Award in 2007 for theatrical costume design. The Hollywood Arts Council honored Bob in 2008, with the "Charlie" (Chaplin) Award for Fashion Arts, acknowledging his contribution to the arts in Hollywood. In May 2011, Otis College of Art and Design, where Bob has mentored students for over two decades, honored him with the Design Legend Award and an Honorary Doctorate Degree. In April 2016, Bob was honored by the Chicago History Museum with the Designer of Excellence Award and was a Geoffrey Beene CFDA Lifetime Achievement Award recipient in 2019. Women who wear Mackie dare to be noticed, and many of the entertainment industries biggest and brightest stars are still clamoring to be dressed by him. The Mackie brand continues to flourish with the QVC Wearable Art Collection and partnerships with Kas Rugs, Premium Bag, Horizon Beauty Group, Glance Eyewear, and The Bradford Exchange. With his choice of vibrant colors, luxurious fabrics, and intricate detail, Bob Mackie's work continues to exude timeless glamour.<br>
+
+<p align="center">
+<u>FAVORITE SHOW:</u><br>
+<p align="center">
+BOB MACKIE SPRING/SUMMER 2001<br>
+</b></font></p>
+
+<hr width=1300 height=1000 color="#B65FCF">
+
+<h1><p align="justify"><font size="5" color="black" face="Arial" align="left"><b><u><a href="https://www.karl.com/en"><center>3. KARL LAGERFELD</center></a></u></b></font></p></h1><br>
+
+
+<center><img src="FASHION3.png" width="900" height="500"/></center>
+<p align="justify">
+<font size="3" color="1D2951" face="Arial"><b>Karl Otto Lagerfeld (German pronunciation: [kaʁl ˈʔɔtoː ˈlaːɡɐˌfɛlt] ⓘ; 10 September 1933 – 19 February 2019) was a German fashion designer.Lagerfeld began his career in fashion in the 1950s, working for several top fashion houses including Balmain, Patou, and Chloé before joining Chanel in 1983. As the creative director of Chanel from 1983 until his death, he oversaw every aspect of the fashion house's creative output, from designing collections to overseeing advertising campaigns and store displays. He was instrumental in revitalizing the Chanel brand, helping it regain its position as one of the top fashion houses in the world. He was also creative director of the Italian fur and leather goods fashion house Fendi, as well as his own eponymous fashion label. Throughout his career, he collaborated on a variety of fashion and art-related projects. Lagerfeld was recognised for his signature white hair, black sunglasses, fingerless gloves, and high-starched detachable collars.<br>
+<p align="justify">
+Lagerfeld was recognized for his signature white hair, black sunglasses, fingerless gloves, and high, starched detachable collars. He had an 18-year relationship with the French aristocrat, model, and socialite Jacques de Bascher (1951–1989), though Lagerfeld said that the relationship never was sexual. "I infinitely loved that boy," Lagerfeld reportedly said of de Bascher, "but I had no physical contact with him. Of course, I was seduced by his physical charm." De Bascher had an affair with the couturier Yves Saint Laurent; subsequently, Saint Laurent's business partner and former lover Pierre Bergé accused Lagerfeld of being behind a gambit to destabilize the rival fashion house.[136] De Bascher died of AIDS in 1989 while Lagerfeld stayed on a cot at his bedside in his hospital room during the final stages of his illness. After Lagerfeld's death, tabloids reported that he was to be cremated and his ashes mixed with those of de Bascher, which Lagerfeld kept in an urn, or with those of his mother.<br>
+
+<p align="center">
+<u>FAVORITE SHOW:</u><br>
+<p align="center">
+CHANEL FALL/WINTER 2008-2009<br>
+</b></font></p>
+
+<hr width=1300 height=1000 color="#B65FCF">
+
+<h1><p align="justify"><font size="5" color="black" face="Arial" align="left"><b><u><a href="https://www.irisvanherpen.com/"><center>4. IRIS VAN HERPEN</center></a></u></b></font></p></h1><br>
+
+
+<center><img src="FASHION4.png" width="900" height="500"/></center>
+<p align="justify">
+<font size="3" color="1D2951" face="Arial"><b>At the maison of Iris van Herpen, Haute Couture is a transformative force that transcends boundaries and unites multi-disciplinary technologies with intricate artisanal craftsmanship. The brand's visionary creations merge pioneering techniques and luxurious materials, often evoking a sense of avant-garde wonder. Whether shaping a dress through electromagnetic weaving or sculpting one from 3D hand-cast transparent leather, the maison challenges traditional notions of the handmade to create ethereal garments that are radically future-facing and exquisitely feminine. Founded in 2007, the brand showcases its collections bi-annually at the exclusive Paris Haute Couture Week as a member of the Fédération de la Haute Couture. The maison’s ambition to reinvent the métier as the engine of innovation, pushing forward sustainability as second nature and materiality is mirrored in its inter-disciplinary approach to art and fashion. Each collection is a quest to venture beyond today's definition of a garment, exploring new forms of expression for a more meaningful, diverse and conscious fashion for the future. Celebrating female empowerment, the maison values a collaborative design process with inspirational women such as the brand’s cherished global clientele and extraordinary muses like Cate Blanchett, Beyoncé, Scarlett Johansson, Lady Gaga, Fan Bingbing and Naomi Campbell. Bespoke designs are meticulously crafted for an international clientage from within the illustrious Haute Couture atelier. Organic, innovative femininity is expressed through state-of-the-art Couture that embraces individuality powerfully and fearlessly. Through symbiotic collaborations with artists from all stripes such as the choreographer Damien Jalet, the performative artist Björk, the kinetic artist Anthony Howe, the trans-disciplinary architect Philip Beesley or the computational artist Neri Oxman the brand challenges the future of fashion by rethinking previously unimaginable ways of Haute Couture.<br>
+<p align="justify">
+“Fashion is an instrument for change, to shift us emotionally. Through biomimicry I look at the forces behind the forms in nature, these patterns and natural cycles are my guide to explore new forms of femininity for a more conscious and sustainable fashion for the future.” - Iris van Herpen<br>
+
+<p align="center">
+<u>FAVORITE SHOW:</u><br>
+<p align="center">
+HAUTE COUTURE FALL/WINTER 2023-2024<br>
+</b></font></p>
+
+<hr width=1300 height=1000 color="#B65FCF">
+
+<h1><p align="justify"><font size="5" color="black" face="Arial" align="left"><b><u><a href="https://www.givenchy.com/apac/en/homepage"><center>5. HUBERT DE GIVENCHY</center></a></u></b></font></p></h1><br>
+
+
+<center><img src="FASHION5.png" width="900" height="500"/></center>
+<p align="justify">
+<font size="3" color="1D2951" face="Arial"><b>After attending art school, Hubert de Givenchy worked for several important fashion designers in Paris. He opened his own design house in 1952 and was immediately praised for his chic, feminine designs. One of Givenchy's most famous affiliates was actress Audrey Hepburn, who wore his designs in Breakfast at Tiffany's and Charade, among other films. Givenchy continued to design for decades, officially retiring in the mid-1990s. Hubert James Marcel Taffin de Givenchy was born on February 21, 1927, in the city of Beauvais in northern France. His parents, Lucien and Béatrice (née Badin) Taffin de Givenchy, gave him and his brother, Jean-Claude, an aristocratic heritage. After Lucien died in 1930, Givenchy was raised by his mother and maternal grandmother. In 1944, Givenchy moved to Paris, where he studied art at the École Nationale Supérieure des Beaux-Arts. Though he considered a career in law, he decided to enter the world of fashion. At the age of 17, Givenchy began an apprenticeship with designer Jacques Fath. After his time with Fath, Givenchy worked for famous French couture houses like Lucien Lelong, Robert Piguet and Elsa Schiaparelli.<br>
+<p align="justify">
+The striking Givenchy, standing at 6'6", opened his own design house in 1952, maintaining a modest business plan. His debut collection was a hit, featuring separates such as long skirts and tailored tops that included the "Bettina blouse," named after model Bettina Graziani. In his following collections, he highlighted elegant evening gowns, feminine hats and tailored suits. The Givenchy name thus became synonymous with Parisian chic.In 1953, Givenchy met Spanish designer Cristóbal Balenciaga, whom he greatly admired and who became a beloved mentor. In the mid-1950s, the two teamed up to introduce a new silhouette called the "sack," a loose form without any waistline. By the 1960s, Givenchy, setting new trends and embracing aspects of youth culture, had begun to favor shorter hemlines and straighter silhouettes in his designs<br>
+
+<p align="center">
+<u>FAVORITE SHOW:</u><br>
+<p align="center">
+LVMH 1995<br>
+</b></font></p>
+
+<hr width=1300 height=1000 color="#B65FCF">
+
+
+
+
+
+</body>
+</html>

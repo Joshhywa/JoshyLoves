@@ -1,0 +1,144 @@
+<html>
+
+<head>
+<title> Joshy Loves Films </title>
+</head>
+
+<style>
+body {
+background-image: url('BG1.jpg'); bakcground-reapeat: no-repeat; background-attachment: fixed; background-size: cover;
+</style>
+
+
+<body>
+<p>
+<center>
+<a href="JoshyLovesHomePage.html">
+<img src="LOGO.png" width="400" height="60"/> 
+</a>
+</center>
+</p>
+
+<p>
+<a href="JoshyLovesHomePage.html">
+<img src="HOMEBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesMusic.html">
+<img src="MUSICBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesFilms.html">
+<img src="FILMSBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesTVShows.html">
+<img src="TVSHOWSBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesToRead.html">
+<img src="TOREADBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesFashion.html">
+<img src="DESIGNERSBUTTON.png" width="210" height="50"/>
+</a>
+</p>
+
+<hr width=1300 height=1000 color="#B65FCF">
+<p><h1><b><center><font size="6" color="#E11584" face="Arial">JOSHY LOVES FILMS</center></b></h1></font>
+<hr width=1300 height=1000 color="#B65FCF">
+
+
+<h1><p align="justify"><font size="5" color="black" face="Arial" align="left"><b><u><a href="https://www.imdb.com/title/tt0117571/"><center>1. SCREAM (1996)</center></a></u></b></font></p></h1>
+
+<h2><p align="justify"><font size="3" color="1D2951" face="Arial" align="left"><i><center>Directed By: Wes Craven</center></i></p></h2>
+
+<center><img src="FILMS1.PNG" width="400" height="500"/></center>
+<p align="justify">
+<font size="3" color="1D2951" face="Arial"><b>Scream is a 1996 American slasher film directed by Wes Craven and written by Kevin Williamson. It stars David Arquette, Neve Campbell, Courteney Cox, Matthew Lillard, Rose McGowan, Skeet Ulrich and Drew Barrymore. Set in the small American town of Woodsboro, Scream's plot follows high school student Sidney Prescott (Campbell) and her friends, who, on the anniversary of her mother's murder, become the targets of a costumed serial killer known as Ghostface.<br>
+<p align="justify">
+Williamson, a struggling writer at the time, was inspired by reports of a series of murders by the Gainesville Ripper as he wrote a screenplay that satirized the clichés of the slasher genre popularized in films such as Halloween (1978), Friday the 13th (1980), and A Nightmare on Elm Street (1984). Developed under the title Scary Movie, Williamson's script became the subject of an intense bidding war from multiple studios before Miramax Films purchased the rights. Despite turning down the opportunity multiple times, Craven agreed to direct the film after reading the script and being disappointed by the failure of Vampire in Brooklyn (1995). The involvement of Barrymore and Cox helped secure support from the studio. Principal photography took place from April to June 1996 in California on a budget of $15 million. Craven trimmed down the violence in the film after being involved in a tense conflict with the Motion Picture Association of America over the desired R-rating.<br>
+<p align="justify">
+Scream was not expected to perform well on December 20, 1996, due to concerns over releasing a slasher film in a time normally reserved for holiday entertainment, but it went on to gross approximately $173 million worldwide through the strength of word of mouth, becoming a surprise success and one of the highest-grossing films of the year. Reviews praised the performances of its cast and its unique meta humor but criticized its excessive violence and lack of suspense in favor of that humor. Scream helped elevate Williamson's career as a writer and raised the profiles of the rest of the cast.<br>
+<p align="justify">
+Scream is now regarded as one of the greatest horror and slasher films ever made. It has been credited with rekindling interest in the horror genre during the 1990s following a decline in the genre's popularity. It has remained influential, as Barrymore's involvement helped make participating in horror films more acceptable to prominent actors and increased horror films' appeal with younger audiences. The success of the film launched a multimedia franchise, which comprises the sequels Scream 2 (1997), Scream 3 (2000), Scream 4 (2011), Scream (2022), and Scream VI (2023), as well as an anthology television series.<br>
+
+<p align="center">
+<u>MY RATING: 10/10</u>
+</b></font></p>
+
+<hr width=1300 height=1000 color="#B65FCF">
+
+<h1><p align="justify"><font size="5" color="black" face="Arial" align="left"><b><u><a href="https://www.imdb.com/title/tt0377092/"><center>2. MEAN GIRLS (2004)</center></a></u></b></font></p></h1>
+
+<h2><p align="justify"><font size="3" color="1D2951" face="Arial" align="left"><i><center>Directed By: Mark Waters</center></i></p></h2>
+
+<center><img src="FILMS2.PNG" width="400" height="500"/></center>
+<p align="justify">
+<font size="3" color="1D2951" face="Arial"><b>Mean Girls is a 2004 American teen comedy film directed by Mark Waters, written by Tina Fey, and starring Lindsay Lohan, Rachel McAdams, Lacey Chabert, Amanda Seyfried (in her film acting debut), Tim Meadows, Ana Gasteyer, Amy Poehler and Fey. The supporting cast includes Lizzy Caplan, Jonathan Bennett, Daniel Franzese and Neil Flynn. The screenplay is based in part on Rosalind Wiseman's 2002 book Queen Bees and Wannabes, which describes female high school social cliques, school bullying and the damaging effect they can have on teenagers. Fey also drew from her own experience at Upper Darby High School as an inspiration for some of the concepts in the film. The plot centers on naïve teenage girl Cady Heron (Lohan) navigating her way through the social hierarchy of a modern American high school after years' homeschooling by her parents while they conducted research in Africa.<br>
+<p align="justify">
+Saturday Night Live creator Lorne Michaels produced the film. Fey was a long-term cast member and writer for Saturday Night Live. Filming took place from September to November 2003. Although set in the Chicago suburb of Evanston, Illinois, the film was mostly shot in Toronto, Canada. It marks Lohan's second collaboration with director Waters, the first being Freaky Friday (2003).<br>
+<p align="justify">
+Released on April 30, 2004, Mean Girls grossed $130.1 million worldwide and has become a cult classic. Critics praised Waters' direction, Fey's screenplay, its humor and the performances; especially lauded was Lohan's acting, which earned several accolades including three Teen Choice Awards and three MTV Movie Awards, and in 2021, was listed as the eleventh-best performance of the 21st century by The New Yorker. The made-for-TV sequel Mean Girls 2, premiered on ABC Family on January 23, 2011. A musical premiered on Broadway in March 2018 and the film adaptation of the musical is set to be released on January 12, 2024.<br>
+
+<p align="center">
+<u>MY RATING: 9.8/10</u>
+</b></font></p>
+
+<hr width=1300 height=1000 color="#B65FCF">
+
+<h1><p align="justify"><font size="5" color="black" face="Arial" align="left"><b><u><a href="https://www.imdb.com/title/tt1659337/"><center>3. THE PERKS OF BEING A WALLFLOWER (2012)</center></a></u></b></font></p></h1>
+
+<h2><p align="justify"><font size="3" color="1D2951" face="Arial" align="left"><i><center>Directed By: Stephen Chbosky</center></i></p></h2>
+
+<center><img src="FILMS3.PNG" width="400" height="500"/></center>
+<p align="justify">
+<font size="3" color="1D2951" face="Arial"><b>The Perks of Being a Wallflower is a 2012 American coming-of-age romantic drama film written, directed and based on the 1999 novel of the same name by Stephen Chbosky. Logan Lerman stars as a teenager named Charlie who writes to an unnamed friend, and these epistles chronicle his trials, tribulations, and triumphs as he goes through his freshman year of high school. The film depicts his struggles with his, unbeknownst to him, post-traumatic stress disorder, as he goes through his journey in high school making new friends, portrayed by Emma Watson and Ezra Miller. The film's ensemble cast also includes Mae Whitman, Kate Walsh, Dylan McDermott, Joan Cusack, Nina Dobrev and Paul Rudd in supporting roles.<br>
+<p align="justify">
+Chbosky had always intended to adapt the novel to film, but did not rush to do so. He was hesitant to sell the rights to the film to anyone, but eventually sold them to Mr. Mudd Productions as long as they let him write and direct the film. Filming began in Pittsburgh, Pennsylvania, in May 2011 and lasted approximately fifty days.<br>
+<p align="justify">
+The Perks of Being a Wallflower had its world premiere at the 2012 Toronto International Film Festival on September 8, 2012, to a standing ovation. It was released theatrically in the United States on September 21, 2012, by Summit Entertainment. The film was well received by critics, who praised Chbosky's screenplay and direction, the performances of Lerman, Watson and Miller, soundtrack, execution of its topics, and emotional weight. It was also a box office success, grossing $33.3 million on a budget of $13 million, and received several accolades, including the Independent Spirit Award for Best First Feature, two Critics' Choice Movie Awards nominations, and the GLAAD Media Award for Outstanding Film – Wide Release. The film has since become a cult classic, especially among Zillennials, and helped define the "Tumblr era" in the early 2010s.<br>
+
+<p align="center">
+<u>MY RATING: 9.6/10</u>
+</b></font></p>
+
+<hr width=1300 height=1000 color="#B65FCF">
+
+<h1><p align="justify"><font size="5" color="black" face="Arial" align="left"><b><u><a href="https://www.imdb.com/title/tt17527468/"><center>4. BOTTOMS (2023)</center></a></u></b></font></p></h1>
+
+<h2><p align="justify"><font size="3" color="1D2951" face="Arial" align="left"><i><center>Directed By: Emma Seligman</center></i></p></h2>
+
+<center><img src="FILMS4.PNG" width="400" height="500"/></center>
+<p align="justify">
+<font size="3" color="1D2951" face="Arial"><b>Bottoms is a 2023 American satirical teen sex comedy film directed by Emma Seligman, from a screenplay she co-wrote with Rachel Sennott. The film stars Sennott, Ayo Edebiri, Ruby Cruz (in her feature film debut), Havana Rose Liu, Kaia Gerber, Nicholas Galitzine, Miles Fowler, Dagmara Domińczyk, and Marshawn Lynch. Its plot follows two high school senior girls who set up a fight club as a way to hook up with cheerleaders. Bottoms premiered at South by Southwest on March 11, 2023, and was released in the United States on August 25, 2023, by Metro-Goldwyn-Mayer. The film received positive reviews from critics.<br>
+<p align="justify">
+In this refreshingly unique comedy, two girls, PJ and Josie, start a fight club as a way to lose their virginities to cheerleaders. And their bizarre plan works! The fight club gains traction, and soon the most popular girls in school are beating each other up in the name of self-defense. But PJ and Josie find themselves in over their heads and in need of a way out before their plan is exposed. THIS MOVIE IS THE EPITOME OF A CLASSIC CHICK FLIC THAT THE MODERN COMEDY FILM ERA HAS BEEN MISSING!!!! I highly suggest you watch this movie that is pure chaos and camp!<br>
+
+<p align="center">
+<u>MY RATING: 9.5/10</u>
+</b></font></p>
+
+<hr width=1300 height=1000 color="#B65FCF">
+
+<h1><p align="justify"><font size="5" color="black" face="Arial" align="left"><b><u><a href="https://www.imdb.com/title/tt5580036/"><center>5. I, TONYA (2017)</center></a></u></b></font></p></h1>
+
+<h2><p align="justify"><font size="3" color="1D2951" face="Arial" align="left"><i><center>Directed By: Craig Gillespie</center></i></p></h2>
+
+<center><img src="FILMS5.PNG" width="400" height="500"/></center>
+<p align="justify">
+<font size="3" color="1D2951" face="Arial"><b>I, Tonya is a 2017 American biographical sports mockumentary black comedy film directed by Craig Gillespie and written by Steven Rogers. It follows the life and career of American figure skater Tonya Harding and her connection to the 1994 assault on her rival Nancy Kerrigan. The film states it is based on "contradictory" and "totally true" interviews with Harding and her ex-husband Jeff Gillooly, suggesting they are unreliable narrators. This means the viewer must decide for themselves whether to see the film as the truth or as a version concocted by Harding herself. It features darkly comedic interviews with the characters in mockumentary style, set in the modern day, and breaks the fourth wall. Margot Robbie (who also produced) stars as Harding, Sebastian Stan as Gillooly, and Allison Janney as Harding's mother LaVona Golden. Julianne Nicholson, Caitlin Carver, Paul Walter Hauser, and Bobby Cannavale also star.<br>
+<p align="justify">
+Loosely based on actual events, the film depicts Harding as a victim, reframing the narrative around her implication in the aftermath of the crime and other criticism of her actions. I, Tonya premiered at the Toronto International Film Festival on September 8, 2017, and was theatrically released in the United States on December 8, 2017. It grossed $53 million worldwide on an $11 million budget, and received positive reviews from critics, who mostly lauded the performances of Robbie, Stan and Janney.<br>
+<p align="justify">
+At the 90th Academy Awards, Janney won for Best Supporting Actress, while the film also earned nominations for Best Actress for Robbie and Best Film Editing. It earned three nominations at the 75th Golden Globe Awards, winning Best Supporting Actress for Janney, who also won at the Screen Actors Guild and Critics' Choice Movie Awards. Robbie herself was nominated for Best Actress at both shows. At the 71st British Academy Film Awards, the film earned five nominations, winning Best Actress in a Supporting Role for Janney.<br>
+
+<p align="center">
+<u>MY RATING: 9.2/10</u>
+</b></font></p>
+
+<hr width=1300 height=1000 color="#B65FCF">
+
+</body>
+</html>

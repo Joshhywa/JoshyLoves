@@ -1,0 +1,129 @@
+<html>
+
+<head>
+<title> Joshy Loves </title>
+</head>
+
+<style>
+body {
+background-image: url('BG1.jpg'); bakcground-reapeat: no-repeat; background-attachment: fixed; background-size: cover;
+</style>
+
+
+<body>
+<p>
+<center>
+<a href="JoshyLovesHomePage.html">
+<img src="LOGO.png" width="400" height="60"/> 
+</a>
+</center>
+</p>
+
+<p>
+<a href="JoshyLovesHomePage.html">
+<img src="HOMEBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesMusic.html">
+<img src="MUSICBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesFilms.html">
+<img src="FILMSBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesTVShows.html">
+<img src="TVSHOWSBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesToRead.html">
+<img src="TOREADBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesFashion.html">
+<img src="DESIGNERSBUTTON.png" width="210" height="50"/>
+</a>
+</p>
+
+<p>
+<div>
+<p>
+<font size="4" face="Arial">
+<table style="float:right" border="1" background="TABLE.jpg" align="left" cellpadding="10">
+<tr>
+        <td><a href="https://www.facebook.com/andreijoshua.rodriguez">
+            <img src="SM1.png" width="40" height="40"/></a></td>
+        
+        <td><a href="https://twitter.com/Joshhywa?t=V2HZ-hfG0ssbxpXLAw911w&s=07&fbclid=IwAR2l0fU-bEjs3ozmZL_QMLYDf6AWHa0kT5N3MjO5U_RFng9-9Oyl-r-04z0">
+            <img src="SM2.png" width="40" height="40"/></a></td>
+
+        <td><a href="https://www.instagram.com/joshhywa/?igshid=eGU4eWNud3AxOGg0&fbclid=IwAR1bEo07Z_eK0PF9rQlGeM0_kUuAc9FQhcuFqszKAoI8FgC5UFDjHt2wo-M">
+            <img src="SM3.png" width="40" height="40"/></a></td>
+
+        <td><a href="https://open.spotify.com/user/22zylrp67sk4dhxwvzw4432aa?si=sge0AYVgS96g3mb8UpcZtA&fbclid=IwAR1u4xiu38GMKgCqJy3RH-2651Gy1VqYvDVgUPEOODZjLwnIbPfgWiNaJyU&nd=1">
+            <img src="SM4.png" width="40" height="40"/></a></td>        
+</tr>
+<tr>
+	<th><b>NAME</b></th>
+        <th colspan="8">ANDREI JOSHUA C. RODRIGUEZ</th>
+</tr>
+<tr>
+        <td><b>AGE</b></td>
+        <td>23</td>
+        <td><b>SEX</b></td>
+        <td>MALE</td>
+</tr>
+<tr>
+        <td><b>B-DAY</b></td>
+        <td>11/30/1999</td>
+        <td><b>PRNS.</b></td>
+        <td>HE/HIM</td>
+</tr>        
+</table>
+</font>
+</p>
+
+    <p><h1><b><font size="6" color="#E11584" face="Arial" align="left">JOSHY LOVES WHO AND WHAT NOW!?</b></h1></FONT>
+      
+   
+    <p align="justify"><font size="4" color="1D2951" face="Arial" align="left"><b>My Name is Andrei Joshua C. Rodriguez, but you can call me Joshy all my friends do. I am currently a third year Psychology student in St. Paul University Surigao – trying my best in forever found bliss. I have created this webpage in the hopes that people, even in the slightest moment gets to see what I see; hear what I hear; feel what I feel; and hopefully also love what I love. Consider this webpage a love letter to the people and the art they created, art that made me who I am today - in these webpages are the top 5 lists of my favorite anythings and the reason why I love them. And no this is not a far stretch when I say I am OBSSESED with the things y’all bout to see up on here – these fixations that quite literally will stay with me till the day I DIE!!!! PEEERRRRIIIIIIIOOOOOODDDDD!!!</b></p>
+</div>
+</p>
+
+
+<p>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+</style>
+</head>
+</head>
+<div class="row">
+  <div class="column">
+    <img src="AUTHOR.jpeg" alt="AUTHOR" height="750" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="AUTHOR1.png" alt="AUTHOR1" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="AUTHOR2.jpg" alt="AUTHOR2" style="width:100%">
+  </div>
+</div>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,189 @@
+<html>
+
+<head>
+<title> Joshy Loves To Read </title>
+</head>
+
+<style>
+body {
+background-image: url('BG1.jpg'); bakcground-reapeat: no-repeat; background-attachment: fixed; background-size: cover;
+</style>
+
+
+<body>
+<p>
+<center>
+<a href="JoshyLovesHomePage.html">
+<img src="LOGO.png" width="400" height="60"/> 
+</a>
+</center>
+</p>
+
+<p>
+<a href="JoshyLovesHomePage.html">
+<img src="HOMEBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesMusic.html">
+<img src="MUSICBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesFilms.html">
+<img src="FILMSBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesTVShows.html">
+<img src="TVSHOWSBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesToRead.html">
+<img src="TOREADBUTTON.png" width="210" height="50"/>
+</a>
+
+<a href="JoshyLovesFashion.html">
+<img src="DESIGNERSBUTTON.png" width="210" height="50"/>
+</a>
+</p>
+
+<hr width=1300 height=1000 color="#B65FCF">
+<p><h1><b><center><font size="6" color="#E11584" face="Arial">JOSHY LOVES TO READ</center></b></h1></font>
+<hr width=1300 height=1000 color="#B65FCF">
+
+
+<h1><p align="justify"><font size="5" color="black" face="Arial" align="left"><b><u><a href="https://www.goodreads.com/en/book/show/20820994"><center>1. I'LL GIVE YOU THE SUN</center></a></u></b></font></p></h1>
+
+<h2><p align="justify"><font size="3" color="1D2951" face="Arial" align="left"><i><center>Created By: Jandy Nelson</center></i></p></h2>
+
+<center><img src="BOOK1.PNG" width="400" height="500"/></center>
+<p align="justify">
+<font size="3" color="1D2951" face="Arial"><b>I'll Give You the Sun is a young adult novel by author Jandy Nelson. Published in September 2014, it is Nelson's second novel. Nelson won several awards for this novel, including the 2015 Printz Award for Excellence in Young Adult Literature. In June 2015, Warner Bros. optioned the movie rights and Natalie Krinsky signed on to write the script. Denise Di Novi and Alison Greenspan were said to be producing the movie.<br>
+<p align="justify">
+The novel follows a set of twins, Jude and Noah. Although they were incredibly close at thirteen, three years later they are hardly speaking to each other. The early years are narrated by Noah as he struggles with an enormous secret that affects his past, present, and future. The later years are narrated by Jude as her life changes when she meets an arrogant and broken, yet beautiful boy. Jude also encounters a tormented, mysterious artist—an even more unpredictable force that changes her life, and Noah's, forever.<br>
+
+<p align="center">
+<u>FAVORITE QUOTES:</u><br>
+<p align="center">
+<i>"We were all heading for each other on a collision course, no matter what. Maybe some people are just meant to be in the same story."<br>
+<p align="center">
+"I love you," I say to him, only it comes out, "Hey." "So damn much,” he says back, only it comes out, "Dude."
+He still won’t meet my eyes."
+<p align="center">
+"Meeting your soul mate is like walking into a house you've been in before - you will recognize the furniture, the pictures on the wall, the books on the shelves, the contents of drawers: You could find your way around in the dark if you had to."</i>
+
+<p align="center">
+OVERALL RATING: 10/10
+</b></font></p>
+
+<hr width=1300 height=1000 color="#B65FCF">
+
+
+<h1><p align="justify"><font size="5" color="black" face="Arial" align="left"><b><u><a href="https://www.goodreads.com/en/book/show/25014114"><center>2. HISTORY IS ALL YOU LEFT ME</center></a></u></b></font></p></h1>
+
+<h2><p align="justify"><font size="3" color="1D2951" face="Arial" align="left"><i><center>Created By: Adam Silvera</center></i></p></h2>
+
+<center><img src="BOOK2.PNG" width="400" height="500"/></center>
+<p align="justify">
+<font size="3" color="1D2951" face="Arial"><b>History Is All You Left Me is a young adult novel by Adam Silvera, published January 17, 2017 by Soho Teen. When Griffin's first love and ex-boyfriend, Theo, dies in a drowning accident, his universe implodes. Even though Theo had moved to California for college and started seeing Jackson, Griffin never doubted Theo would come back to him when the time was right. But now, the future he's been imagining for himself has gone far off course. To make things worse, the only person who truly understands his heartache is Jackson. But no matter how much they open up to each other, Griffin's downward spiral continues. He's losing himself in his obsessive compulsions and destructive choices, and the secrets he's been keeping are tearing him apart. If Griffin is ever to rebuild his future, he must first confront his history, every last heartbreaking piece in the puzzle of his life.<br>
+
+<p align="center">
+<u>FAVORITE QUOTES:</u><br>
+<p align="center">
+<i>"I'm blown away by how happy you make me. Thank you for being there for me when I'm stupid enough to think I'd rather be alone."<br>
+<p align="center">
+"Every universe I’ve created lately, your face keeps popping up in it."
+<p align="center">
+"History is nothing. It can be recycled or thrown away completely. It isn’t this sacred treasure chest I mistook it to be. We were something, but history isn’t enough to keep something alive forever."
+<p align="center">
+"I'm sorry, but please don't be mad at me for reliving all of it. History is all you left me."</i>
+
+<p align="center">
+OVERALL RATING: 9.8/10
+</b></font></p>
+
+<hr width=1300 height=1000 color="#B65FCF">
+
+<h1><p align="justify"><font size="5" color="black" face="Arial" align="left"><b><u><a href="https://www.goodreads.com/en/book/show/26109391"><center>3. HIGHLY ILLOGICAL BEHAVIOR</center></a></u></b></font></p></h1>
+
+<h2><p align="justify"><font size="3" color="1D2951" face="Arial" align="left"><i><center>Created By: John Corey Whaley</center></i></p></h2>
+
+<center><img src="BOOK3.PNG" width="400" height="500"/></center>
+<p align="justify">
+<font size="3" color="1D2951" face="Arial"><b>Highly Illogical Behavior is the third Young Adult novel by John Corey Whaley, a former teacher turned full time YA novelist. Published in 2016, Highly Illogical Behavior was named an NPR Best Book of 2016, a Chicago Public Library Best Teen Fiction of 2016, among other accolades. Published by SPEAK, an imprint of Penguin Random House, this novel represents the Young Adult fiction genre often referred to as “Teen Fiction.” Like many YA novels, Highly Illogical Behavior explores the relationships teenagers have with their own developing selves, their changing friends, and their families. YA novels typically explore a coming-of-age story as teenagers learn to navigate the world around them. Highly Illogical Behavior also explores mental illness, another popular trope in contemporary YA literature.<br>
+<p align="justify">
+Sixteen year old Solomon has agoraphobia. He hasn't left his house in three years, which is fine by him. At home, he is the master of his own kingdom--even if his kingdom doesn't extend outside of the house. Ambitious Lisa desperately wants to go to a top tier psychiatry program. She'll do anything to get in. When Lisa finds out about Solomon's solitary existence, she comes up with a plan sure to net her a scholarship: Befriend Solomon. Treat his condition. And write a paper on her findings. To earn Solomon's trust, Lisa begins letting him into her life, introducing him to her boyfriend Clark, and telling him her secrets. Soon, Solomon begins to open up and expand his universe. But all three teens have grown uncomfortably close, and when their facades fall down, their friendships threaten to collapse, as well. At turns hilarious and heartwarming, Highly Illogical Behavior showcases the different ways in which we hide ourselves from the world--and the ways in which love, tragedy, and the need for connection may be the only things to bring us back into the light.<br>
+
+<p align="center">
+<u>FAVORITE QUOTES:</u><br>
+<p align="center">
+<i>"As smart as I am, it took a boy stuck in his house to teach me that sometimes it doesn't matter where you are at all. It only matters whos with you."<br>
+<p align="center">
+"That’s what we do sometimes. We let people disappear. We want them to. If everyone just stays quiet and out of the way, then the rest of us can pretend everything’s fine. But everything is not fine."<br>
+<p align="center">
+“She believed in herself maybe more than other people believed in God or the devil or Heaven or Hell.”</i>
+
+<p align="center">
+OVERALL RATING: 9.8/10
+</b></font></p>
+
+<hr width=1300 height=1000 color="#B65FCF">
+
+
+<h1><p align="justify"><font size="5" color="black" face="Arial" align="left"><b><u><a href="https://www.goodreads.com/book/show/12000020-aristotle-and-dante-discover-the-secrets-of-the-universe"><center>4. ARISTOTLE AND DANTE DISCOVER THE SECRETS OF THE UNIVERSE</center></a></u></b></font></p></h1>
+
+<h2><p align="justify"><font size="3" color="1D2951" face="Arial" align="left"><i><center>Created By: Benjamin Alire Sáenz</center></i></p></h2>
+
+<center><img src="BOOK4.PNG" width="400" height="500"/></center>
+<p align="justify">
+<font size="3" color="1D2951" face="Arial"><b>Aristotle and Dante Discover the Secrets of the Universe is a coming-of-age young adult novel by American author Benjamin Alire Sáenz which was first published February 21, 2012. Set in El Paso, Texas in 1987, the novel follows two Mexican-American teenagers, Aristotle "Ari" Mendoza and Dante Quintana, their friendship, and their struggles with racial and ethnic identity, sexuality, and family relationships. Since its publication, the novel has received widespread critical acclaim and numerous accolades. A sequel, titled Aristotle and Dante Dive into the Waters of the World, was published on October 12, 2021. A film adaptation, written and directed by Aitch Alberto, premiered on September 9, 2022.<br>
+<p align="justify">
+Dante can swim. Ari can't. Dante is articulate and self-assured. Ari has a hard time with words and suffers from self-doubt. Dante gets lost in poetry and art. Ari gets lost in thoughts of his older brother who is in prison. Dante is fair skinned. Ari's features are much darker. It seems that a boy like Dante, with his open and unique perspective on life, would be the last person to break down the walls that Ari has built around himself. But against all odds, when Ari and Dante meet, they develop a special bond that will teach them the most important truths of their lives, and help define the people they want to be. But there are big hurdles in their way, and only by believing in each other―and the power of their friendship―can Ari and Dante emerge stronger on the other side.<br>
+
+<p align="center">
+<u>FAVORITE QUOTES:</u><br>
+<p align="center">
+<i>"I wondered what that was like, to hold someone’s hand. I bet you could sometimes find all of the mysteries of the universe in someone’s hand."<br>
+<p align="center">
+"This is my problem. I want other people to tell me how they feel. But I'm not so sure I want to return the favor."
+<p align="center">
+"There are worse things in the world than a boy who likes to kiss other boys."
+<p align="center">
+"Another secret of the universe: Sometimes pain was like a storm that came out of nowhere. The clearest summer could end in a downpour. Could end in lightning and thunder."</i>
+
+<p align="center">
+OVERALL RATING: 9.7/10
+</b></font></p>
+
+<hr width=1300 height=1000 color="#B65FCF">
+
+
+<h1><p align="justify"><font size="5" color="black" face="Arial" align="left"><b><u><a href="https://www.goodreads.com/en/book/show/23677341"><center>5. WE ARE THE ANTS</center></a></u></b></font></p></h1>
+
+<h2><p align="justify"><font size="3" color="1D2951" face="Arial" align="left"><i><center>Created By: Shaun David Hutchinson</center></i></p></h2>
+
+<center><img src="BOOK5.PNG" width="400" height="500"/></center>
+<p align="justify">
+<font size="3" color="1D2951" face="Arial"><b>We Are the Ants is a young adult science fiction novel by Shaun David Hutchinson, published January 19, 2016 by Simon Pulse with a 24-page companion story, “What We Pretend to Be”, published on the publisher's website, Riveted, later that year.<br>
+<p align="justify">
+From the author of The Five Stages of Andrew Brawley comes a brand-new novel about a teenage boy who must decide whether or not the world is worth saving. Henry Denton has spent years being periodically abducted by aliens. Then the aliens give him an ultimatum: The world will end in 144 days, and all Henry has to do to stop it is push a big red button. Only he isn’t sure he wants to. After all, life hasn’t been great for Henry. His mom is a struggling waitress held together by a thin layer of cigarette smoke. His brother is a jobless dropout who just knocked someone up. His grandmother is slowly losing herself to Alzheimer’s. And Henry is still dealing with the grief of his boyfriend’s suicide last year. Wiping the slate clean sounds like a pretty good choice to him. But Henry is a scientist first, and facing the question thoroughly and logically, he begins to look for pros and cons: in the bully who is his perpetual one-night stand, in the best friend who betrayed him, in the brilliant and mysterious boy who walked into the wrong class. Weighing the pain and the joy that surrounds him, Henry is left with the ultimate choice: push the button and save the planet and everyone on it…or let the world—and his pain—be destroyed forever.<br>
+
+<p align="center">
+<u>FAVORITE QUOTES:</u><br>
+<p align="center">
+<i>"We may not get to choose how we die, but we can chose how we live. The universe may forget us, but it doesn't matter. Because we are the ants, and we'll keep marching on."<br>
+<p align="center">
+"Depression isn't a war you win. It's a battle you fight every day. You never stop, never get to rest. It's one bloody fray after another."
+<p align="center">
+"We're not words, Henry, we're people. Words are how others define us, but we can define ourselves any way we choose."
+<p align="center">
+"Dreams are hopeful because they exist as pure possibility. Unlike memories, which are fossils, long dead and buried deep."</i>
+
+<p align="center">
+OVERALL RATING: 9.6/10
+</b></font></p>
+
+<hr width=1300 height=1000 color="#B65FCF">
+
+
+
+</body>
+</html>
